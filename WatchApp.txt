@@ -1,0 +1,4 @@
+UUID=9e57a249-9a5c-4ded-b374-005a472b8049
+NAME="a timer app"
+RWSLINK=http://rebble.io/apppage
+ORIGURL=http://devhostedurl.com/settings.html
